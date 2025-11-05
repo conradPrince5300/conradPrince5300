@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Conrad Prince
 
-<!--
-**conradPrince5300/conradPrince5300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Data Engineer / Data Analyst** passionate about transforming raw data into actionable insights through well-structured data models and automated pipelines.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 💻 Skilled in **Python**, **SQL**, and **PostgreSQL**
+- 🏗️ Experienced with **OLTP → OLAP data modeling** and **ETL workflows**
+- 📊 Enthusiastic about **data warehousing**, **analytics engineering**, and **cloud data tools**
+- 🌱 Currently learning advanced **data pipeline orchestration** and **query optimization**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Featured Project
+### [Data Modeling Portfolio](https://github.com/conradPrince5300/data-modeling-portfolio)
+An end-to-end data modeling and ETL project that demonstrates the full process of transforming OLTP data into an OLAP warehouse using SQL and Python.
+
+**Tech Stack:** Python | PostgreSQL | SQL | Pandas  
+**Highlights:**
+- Automated ETL pipeline (`etl_oltp_to_olap.py`)
+- Clean OLTP and OLAP schema design
+- Organized datasets in `/data/raw`
+- Modular and reusable structure for analytics projects
+
+## 📫 Connect with Me
+- GitHub: [@conradPrince5300](https://github.com/conradPrince5300)
+
+---
+
+⭐ *Thanks for visiting! Check out my repositories to see how I build scalable data workflows and models.*
