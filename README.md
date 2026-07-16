@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Conrad Prince
 
-I'm an aspiring **Data Engineer / Data Analyst** passionate about transforming raw data into actionable insights through well-structured data models and automated pipelines.
+I'm an Aerospace Systems Engineering graduate and licensed pilot who builds data pipelines and labels technical/aviation training data. I combine hands-on aviation domain knowledge — flight operations, dispatch, aircraft systems — with Python, SQL, and ETL skills to structure, validate, and model aviation data end to end.
 
 ## 🧠 About Me
 - 💻 Skilled in **Python**, **SQL**, and **PostgreSQL**
